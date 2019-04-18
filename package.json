@@ -1,0 +1,16 @@
+{
+  "name": "tw-gutenberg-block",
+  "version": "1.0.0",
+  "description": "Gutenberg sample block by TheWaveStudio.it",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "lint:js": "wp-scripts lint-js ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "3.1.0"
+  }
+}
